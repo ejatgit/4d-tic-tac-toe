@@ -1,0 +1,8 @@
+# Files to ignore
+4d-tic-tac-toe-orig.cpp
+4d-tic-tac-toe-rev1.cpp
+TerminalColor.cpp
+TerminalColorTest2.cpp
+TerminalTest.cpp
+TerminalTest_orig.cpp
+TerminalTest_rev1.cpp
